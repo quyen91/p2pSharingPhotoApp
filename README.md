@@ -2,6 +2,7 @@
 ### Name App
 HotPhoto
 ### Main function
+- Upload photo to share all connect in network
 - View all photo shared on same wifi network
 - Like, vote photo
 
