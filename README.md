@@ -1,7 +1,9 @@
 # p2pSharingPhotoApp
+### Name App
+HotPhoto
 ### Main function
-- Sharing photo
-- Sharing document in University
+- View all photo shared on same wifi network
+- Like, vote photo
 
 ### Require Technique
 - Wifi connect using p2p
