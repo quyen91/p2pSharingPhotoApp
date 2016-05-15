@@ -10,3 +10,6 @@ HotPhoto
 - Connect and use SQlite to save data
 - Using layout properly
 - Multithreading
+
+### Demo
+![Demo](https://quyenvinhxuan.files.wordpress.com/2016/05/demo.jpg" "This is homepage")
