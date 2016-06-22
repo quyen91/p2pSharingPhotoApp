@@ -1,16 +1,16 @@
-# p2pSharingPhotoApp
+# p2pAppChatOnline
 ### Name App
-HotPhoto
+ChatP2P
 ### Main function
-- Upload photo to share all connect in network
-- View all photo shared on same wifi network
-- Like, vote photo
+- Connect others in same wifi and using app
+- Send messages to all active user
+- Send text, video, images
 
 ### Require Technique
 - Wifi connect using p2p
-- Connect and use SQlite to save data
 - Using layout properly
 - Multithreading
+- Socket connect
 
 ### Demo
 
